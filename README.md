@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm @Nico-Werner<br>🎓 I'm a Software Engineer Student<br>📥 Reach me out: nico.werner@hotmail.com (Yes, I use Hotmail 😉)
+👋 Hi, I'm @Nico-Werner<br>💻 I'm a Software Engineer<br>🎓 Studied at Universidad Austral<br>📥 Reach me out: nico.werner@hotmail.com (Yes, I use Hotmail 😉)
 
 
 ## 🌐 Socials:
